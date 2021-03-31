@@ -63,7 +63,7 @@ $ kibelanotes | jq -r .data.currentUser.latestNotes.nodes[].content             
 
 
 
-## 使い方
+## インストール
 
 ### 1. KibelaのAPIトークンの作成
 
@@ -94,7 +94,7 @@ deno install --allow-env --allow-net https://raw.githubusercontent.com/tetsuzawa
 ```
 
 
-### TODO・メモ
+## TODO・メモ
 
 - なんでDeno?
     - 使いたかったから
