@@ -86,7 +86,7 @@ brew install deno
 
 その他は[公式](https://github.com/denoland/deno) を参照してください。
 
-4. コマンドのインストール
+### 4. コマンドのインストール
 
 
 ```shell
